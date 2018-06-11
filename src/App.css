@@ -1,0 +1,13 @@
+a {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+}
+
+a:hover {
+  cursor: pointer
+}
+
+.strikeout {
+  text-decoration: line-through;
+}
